@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"3XHS":function(e,t,a){"use strict";a.r(t),a.d(t,"default",(function(){return l}));var n=a("q1tI"),r=a.n(n),c=a("LbRr"),u=a("Bl7J");function l(){return r.a.createElement(u.a,null,r.a.createElement(c.a,{headerText:"about gatsby"}),r.a.createElement(c.a,{headerText:"it's pretty cool"}),r.a.createElement("p",null,"Such wow. Very React."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-7452ad42179a7009fc1c.js.map
